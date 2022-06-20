@@ -34,10 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ExileCore">
-      <HintPath>..\..\..\..\..\Development\workspaces\poehelper_ws\ExileApi-3.17.25\PoeHelper\net48\ExileCore.dll</HintPath>
+      <HintPath>D:\Development\workspaces\poehelper_ws\ExileApi-3.17.25\PoeHelper\net48\ExileCore.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Mathematics">
-      <HintPath>..\..\..\..\PoeHelper\SharpDX.Mathematics.dll</HintPath>
+      <HintPath>D:\Development\workspaces\poehelper_ws\ExileApi-3.17.25\PoeHelper\SharpDX.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
